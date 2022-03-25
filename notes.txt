@@ -1,0 +1,9 @@
+How to Create a Email subscribers using Mailchimp
+
+step1: Create an Mailchimp Account
+
+Goto Compaigns Tab -> Create New Copaign -> signup form -> Embedded form -> Setting form
+
+Used code in HTML Landing Page
+
+Done!
